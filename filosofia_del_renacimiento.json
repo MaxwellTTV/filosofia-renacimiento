@@ -1,0 +1,195 @@
+{
+    "titulo": "La filosofía moderna: el Renacimiento",
+    "etimologia": {
+        "origen": "La palabra Renacimiento proviene del italiano Rinascimento, que significa literalmente 'renacer' o 'volver a nacer'.",
+        "significado": "Se refiere al interés renovado por la cultura, el arte y el pensamiento de la Antigüedad clásica grecorromana.",
+        "idea_principal": "El término también expresa la idea de una renovación cultural frente a algunas formas de pensamiento predominantes durante la Edad Media."
+    },
+    "concepto": {
+        "definicion": "El Renacimiento fue un movimiento cultural, intelectual y artístico desarrollado principalmente en Europa entre los siglos XIV y XVI.",
+        "etapa": "Constituyó una etapa de transición entre la Edad Media y la Edad Moderna.",
+        "filosofia": "En el ámbito filosófico, el Renacimiento se caracterizó por recuperar el pensamiento de los filósofos griegos y romanos y, al mismo tiempo, por desarrollar nuevas formas de comprender al ser humano, la naturaleza, la ciencia, la política y el conocimiento.",
+        "elemento_central": "Uno de sus elementos centrales fue el humanismo, que colocó al ser humano, su dignidad, capacidad racional y libertad en un lugar importante de la reflexión."
+    },
+    "ciencias_y_tratados": {
+        "ciencias": [
+            {
+                "nombre": "Astronomía",
+                "descripcion": "Se cuestionó el modelo geocéntrico tradicional y se desarrollaron nuevas explicaciones sobre el universo."
+            },
+            {
+                "nombre": "Medicina",
+                "descripcion": "Aumentó el estudio directo de la anatomía y del cuerpo humano."
+            },
+            {
+                "nombre": "Matemáticas",
+                "descripcion": "Tuvieron un importante desarrollo y fueron fundamentales para la astronomía y la física."
+            },
+            {
+                "nombre": "Física",
+                "descripcion": "Comenzaron a desarrollarse explicaciones más basadas en la observación y las matemáticas."
+            },
+            {
+                "nombre": "Geografía",
+                "descripcion": "Los viajes y descubrimientos ampliaron considerablemente el conocimiento europeo del mundo."
+            },
+            {
+                "nombre": "Botánica y ciencias naturales",
+                "descripcion": "Aumentó la observación y clasificación de plantas, animales y fenómenos naturales."
+            }
+        ],
+        "obras_importantes": [
+            {
+                "titulo": "El príncipe",
+                "autor": "Nicolás Maquiavelo",
+                "descripcion": "Reflexión sobre el poder, el Estado y la política."
+            },
+            {
+                "titulo": "Utopía",
+                "autor": "Tomás Moro",
+                "descripcion": "Presenta una sociedad imaginaria y plantea una crítica a diversos problemas sociales y políticos."
+            },
+            {
+                "titulo": "De la dignidad del hombre",
+                "autor": "Giovanni Pico della Mirandola",
+                "descripcion": "Reflexión sobre la libertad y la capacidad del ser humano para construir su propio destino."
+            },
+            {
+                "titulo": "De revolutionibus orbium coelestium",
+                "autor": "Nicolás Copérnico",
+                "descripcion": "Propuso el modelo heliocéntrico."
+            },
+            {
+                "titulo": "El elogio de la locura",
+                "autor": "Erasmo de Róterdam",
+                "descripcion": "Crítica de determinadas costumbres y comportamientos de la sociedad y de la Iglesia de su época."
+            }
+        ]
+    },
+    "generalidades": [
+        {
+            "caracteristica": "Humanismo",
+            "descripcion": "Mayor interés por el ser humano, su dignidad y sus capacidades."
+        },
+        {
+            "caracteristica": "Antropocentrismo",
+            "descripcion": "Mayor atención al ser humano como objeto de reflexión, frente al predominio del teocentrismo medieval."
+        },
+        {
+            "caracteristica": "Recuperación de la Antigüedad clásica",
+            "descripcion": "Estudio de Platón, Aristóteles, Cicerón, Séneca y otros autores antiguos."
+        },
+        {
+            "caracteristica": "Valoración de la razón",
+            "descripcion": "Se fortaleció la confianza en la capacidad humana para investigar y comprender la realidad."
+        },
+        {
+            "caracteristica": "Interés por la naturaleza",
+            "descripcion": "Aumentó la observación directa de los fenómenos naturales."
+        },
+        {
+            "caracteristica": "Desarrollo científico",
+            "descripcion": "Se impulsaron nuevas investigaciones en astronomía, medicina, matemáticas y otras ciencias."
+        },
+        {
+            "caracteristica": "Individualismo",
+            "descripcion": "Se valoraron progresivamente la autonomía, creatividad y capacidad individual."
+        },
+        {
+            "caracteristica": "Secularización",
+            "descripcion": "Algunos ámbitos del conocimiento comenzaron a adquirir mayor independencia respecto de la autoridad religiosa."
+        },
+        {
+            "caracteristica": "Invención de la imprenta",
+            "descripcion": "Facilitó la reproducción y difusión de libros e ideas."
+        },
+        {
+            "caracteristica": "Nuevas concepciones políticas",
+            "descripcion": "Se desarrollaron reflexiones sobre el Estado, el poder y la organización de la sociedad."
+        }
+    ],
+    "contexto_historico": {
+        "surgimiento": "El Renacimiento surgió durante la transición entre la Edad Media y la Edad Moderna.",
+        "centros_iniciales": [
+            "Florencia",
+            "Venecia",
+            "Roma"
+        ],
+        "acontecimientos_clave": [
+            "El crecimiento de las ciudades y del comercio.",
+            "El fortalecimiento de una nueva clase social: la burguesía.",
+            "El desarrollo de las universidades y centros de estudio.",
+            "La recuperación de textos de autores clásicos.",
+            "La llegada de intelectuales bizantinos a Italia, especialmente después de la caída de Constantinopla en 1453.",
+            "La invención y expansión de la imprenta de tipos móviles, asociada a Johannes Gutenberg.",
+            "Los viajes y descubrimientos geográficos de los siglos XV y XVI.",
+            "La Reforma protestante, que produjo importantes transformaciones religiosas y culturales en Europa."
+        ]
+    },
+    "contexto_geografico": {
+        "origen_principal": [
+            "Florencia",
+            "Venecia",
+            "Roma",
+            "Milán"
+        ],
+        "extension": [
+            "Francia",
+            "España",
+            "Inglaterra",
+            "Alemania",
+            "Países Bajos"
+        ]
+    },
+    "autores": [
+        {
+            "nombre": "Nicolás Maquiavelo",
+            "fechas": "1469–1527",
+            "planteamientos": "Analizó la política desde una perspectiva práctica. Estudió cómo se obtiene, conserva y organiza el poder y defendió la importancia de comprender la realidad política tal como es."
+        },
+        {
+            "nombre": "Erasmo de Róterdam",
+            "fechas": "1466–1536",
+            "planteamientos": "Representante del humanismo cristiano. Defendió una educación basada en los estudios clásicos y promovió una renovación moral y religiosa."
+        },
+        {
+            "nombre": "Tomás Moro",
+            "fechas": "1478–1535",
+            "planteamientos": "En Utopía imaginó una sociedad organizada de manera diferente a la europea de su época y realizó una crítica de problemas sociales y políticos."
+        },
+        {
+            "nombre": "Giovanni Pico della Mirandola",
+            "fechas": "1463–1494",
+            "planteamientos": "Destacó la dignidad, libertad y capacidad de elección del ser humano. Consideraba que las personas podían desarrollar sus propias capacidades."
+        },
+        {
+            "nombre": "Nicolás Copérnico",
+            "fechas": "1473–1543",
+            "planteamientos": "Propuso el heliocentrismo, según el cual la Tierra y los demás planetas giran alrededor del Sol. Su propuesta transformó la concepción del universo."
+        },
+        {
+            "nombre": "Giordano Bruno",
+            "fechas": "1548–1600",
+            "planteamientos": "Defendió una concepción amplia del universo y cuestionó la visión tradicional de un cosmos limitado y centrado en la Tierra."
+        },
+        {
+            "nombre": "Francis Bacon",
+            "fechas": "1561–1626",
+            "planteamientos": "Promovió un conocimiento basado en la observación, la experiencia y la investigación sistemática. Es una figura importante en el desarrollo del pensamiento científico moderno."
+        },
+        {
+            "nombre": "Michel de Montaigne",
+            "fechas": "1533–1592",
+            "planteamientos": "Desarrolló una filosofía centrada en la reflexión sobre el ser humano, la experiencia personal y la duda frente a las certezas absolutas."
+        }
+    ],
+    "importancia_filosofia_moderna": {
+        "impacto": "El Renacimiento fue fundamental para el nacimiento de la filosofía moderna, porque contribuyó a cambiar la manera de entender el conocimiento y al ser humano.",
+        "cambio_de_enfoque": "Mientras que durante buena parte de la Edad Media la filosofía estaba estrechamente relacionada con la teología, durante el Renacimiento aumentó el interés por la razón, la experiencia, la naturaleza y las capacidades humanas.",
+        "predecesores": "Este cambio preparó el camino para filósofos posteriores como René Descartes, John Locke, Baruch Spinoza y David Hume, quienes desarrollarían la filosofía moderna de los siglos XVII y XVIII.",
+        "sintesis": {
+            "transicion_historica": "Edad Media -> Renacimiento -> Edad Moderna",
+            "transicion_ideologica": "Teocentrismo -> Humanismo -> Razón y conocimiento"
+        }
+    }
+}
